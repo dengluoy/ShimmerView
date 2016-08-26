@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ShimmerView">
+        <attr name="shimmer_text_color" format="color"/>
+        <attr name="shimmer_color" format="color"/>
+        <attr name="shimmer_interval_time" format="integer"/>
+        <attr name="shimmer_execute_time" format="integer"/>
+    </declare-styleable>
+</resources>
